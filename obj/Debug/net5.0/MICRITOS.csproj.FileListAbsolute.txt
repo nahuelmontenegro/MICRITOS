@@ -1,0 +1,16 @@
+C:\Users\Rodrigo Montenegro\Desktop\MICRITOS\MICRITOS\bin\Debug\net5.0\MICRITOS.exe
+C:\Users\Rodrigo Montenegro\Desktop\MICRITOS\MICRITOS\bin\Debug\net5.0\MICRITOS.deps.json
+C:\Users\Rodrigo Montenegro\Desktop\MICRITOS\MICRITOS\bin\Debug\net5.0\MICRITOS.runtimeconfig.json
+C:\Users\Rodrigo Montenegro\Desktop\MICRITOS\MICRITOS\bin\Debug\net5.0\MICRITOS.runtimeconfig.dev.json
+C:\Users\Rodrigo Montenegro\Desktop\MICRITOS\MICRITOS\bin\Debug\net5.0\MICRITOS.dll
+C:\Users\Rodrigo Montenegro\Desktop\MICRITOS\MICRITOS\bin\Debug\net5.0\ref\MICRITOS.dll
+C:\Users\Rodrigo Montenegro\Desktop\MICRITOS\MICRITOS\bin\Debug\net5.0\MICRITOS.pdb
+C:\Users\Rodrigo Montenegro\Desktop\MICRITOS\MICRITOS\obj\Debug\net5.0\MICRITOS.csproj.AssemblyReference.cache
+C:\Users\Rodrigo Montenegro\Desktop\MICRITOS\MICRITOS\obj\Debug\net5.0\MICRITOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rodrigo Montenegro\Desktop\MICRITOS\MICRITOS\obj\Debug\net5.0\MICRITOS.AssemblyInfoInputs.cache
+C:\Users\Rodrigo Montenegro\Desktop\MICRITOS\MICRITOS\obj\Debug\net5.0\MICRITOS.AssemblyInfo.cs
+C:\Users\Rodrigo Montenegro\Desktop\MICRITOS\MICRITOS\obj\Debug\net5.0\MICRITOS.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo Montenegro\Desktop\MICRITOS\MICRITOS\obj\Debug\net5.0\MICRITOS.dll
+C:\Users\Rodrigo Montenegro\Desktop\MICRITOS\MICRITOS\obj\Debug\net5.0\ref\MICRITOS.dll
+C:\Users\Rodrigo Montenegro\Desktop\MICRITOS\MICRITOS\obj\Debug\net5.0\MICRITOS.pdb
+C:\Users\Rodrigo Montenegro\Desktop\MICRITOS\MICRITOS\obj\Debug\net5.0\MICRITOS.genruntimeconfig.cache
