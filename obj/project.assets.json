@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Rodrigo Montenegro\\Desktop\\MICRITOS\\MICRITOS\\MICRITOS.csproj",
+      "projectUniqueName": "C:\\Users\\Rodrigo Montenegro\\Desktop\\MICRITOS APP\\MICRITOS.csproj",
       "projectName": "MICRITOS",
-      "projectPath": "C:\\Users\\Rodrigo Montenegro\\Desktop\\MICRITOS\\MICRITOS\\MICRITOS.csproj",
+      "projectPath": "C:\\Users\\Rodrigo Montenegro\\Desktop\\MICRITOS APP\\MICRITOS.csproj",
       "packagesPath": "C:\\Users\\Rodrigo Montenegro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Rodrigo Montenegro\\Desktop\\MICRITOS\\MICRITOS\\obj\\",
+      "outputPath": "C:\\Users\\Rodrigo Montenegro\\Desktop\\MICRITOS APP\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
